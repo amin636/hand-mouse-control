@@ -6,6 +6,20 @@ from mediapipe.tasks.python import vision
 import pyautogui
 from collections import deque
 import math
+import os
+import urllib.request
+
+model_url = "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
+model_path = "hand_landmarker.task"
+
+if not os.path.exists(model_path):
+    
+    print("Model is downloading...")
+
+    urllib.request.urlretrieve(model_url, model_path)
+
+    print("Model download complete")
+
 
 base_options=python.BaseOptions(model_asset_path="hand_landmarker.task")
 
