@@ -1,4 +1,4 @@
-__Control Your Computer with Just Your Fingers__
+#Control Your Computer with Just Your Fingers
 
 Say goodbye to your mouse! XD
 
@@ -10,7 +10,7 @@ When you bring your index finger and thumb together, it's just like clicking the
 
 ___
 
- **How It Works ?**
+ ##How It Works ?
 
  Show your hand → Your index finger becomes the mouse pointer
 
@@ -20,7 +20,7 @@ ___
 
 ___
 
- **Installing Requirements**
+ ##Installing Requirements
 
  Before running the program, you need to install some Python libraries. Don't worry, it's super easy!
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 That's it!  Everything installs at once!
 
-or
+##or
 
 ```bash
 pip install opencv-python
