@@ -8,7 +8,7 @@ But wait, there's more...
 
 When you bring your index finger and thumb together, it's just like clicking the left mouse button! Pinch them together, and BAM – you've just clicked! 
 
-___
+
 
  ## How It Works ?
 
@@ -18,7 +18,7 @@ ___
 
  Pinch index & thumb together → Left click! 
 
-___
+
 
  ## Installing Requirements
 
