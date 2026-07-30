@@ -1,4 +1,4 @@
-**Control Your Computer with Just Your Fingers**
+__Control Your Computer with Just Your Fingers__
 
 Say goodbye to your mouse! XD
 
@@ -11,6 +11,7 @@ When you bring your index finger and thumb together, it's just like clicking the
 ___
 
  **How It Works ?**
+
  Show your hand → Your index finger becomes the mouse pointer
 
  Move your finger → The mouse glides smoothly across the screen
